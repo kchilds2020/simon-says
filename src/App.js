@@ -62,7 +62,7 @@ function App() {
       setGuessArr([...guessArr, e.target.id])
       
   }
-
+//testing switching to same colors as simon
   return (
     <div style ={{height: '100vh', display: 'flex', flexDirection: 'column', justifyContent: 'center'}}>
       <div style ={{display: 'flex', flexDirection: 'column', alignItems:'center'}}>
